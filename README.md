@@ -22,7 +22,7 @@ This can be a project of your own or a substantial pull request on a third party
 
 Our San Francisco team loves to eat. They are also a team that loves variety, so they also like to discover new places to eat.
 
-In fact, we have a particular affliction for food trucks. One of the great things about Food Trucks in San Francisco is that the city releases a list of them as open data.
+In fact, we have a particular affection for food trucks. One of the great things about Food Trucks in San Francisco is that the city releases a list of them as open data.
 
 Your assignment is to make it possible for us to find a food truck no matter where our work takes us in the city.
 
